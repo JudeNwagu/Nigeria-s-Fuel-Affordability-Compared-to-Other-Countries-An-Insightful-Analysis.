@@ -1,5 +1,18 @@
 # Nigeria-s-Fuel-Affordability-Compared-to-Other-Countries-An-Insightful-Analysis.
 
+![Alt Text](https://github.com/judoski366/Nigeria-s-Fuel-Affordability-Compared-to-Other-Countries-An-Insightful-Analysis./blob/main/oil%20price.jpg)
+
+---
+## Table Of Content
+ - [Introduction](#Introduction)
+ - [ASK](#ASK)
+ - [PREPARE](#PREPARE)
+ - [PROCESS](#PROCESS)
+ - [ANALYZE](#ANALYZE)
+ - [SHARE](#SHARE)
+ - [ACT](#ACT)
+
+
 ## Introduction
 Nigeria, known as the “Giant of Africa” and a major oil-producing nation, is currently experiencing the impact of rising fuel prices. Many Nigerians are feeling the strain of increasing fuel costs as global prices fluctuate. This has led to questions about how fuel affordability in Nigeria compares to other countries and the real-life implications for individuals and the overall economy.
 
@@ -9,14 +22,17 @@ In this analysis, we will take a closer look at Nigeria’s fuel pricing and min
 
 As a data analyst, I leveraged the six stages of data analysis to uncover the broader picture of fuel affordability and its economic impact in nigeria across Selected countries. Here’s how I applied each stage
 
-## 1. Ask
+---
+
+## ASK
 ### Project Objectives
 - This project aims to understand how fuel affordability impacts the economic well-being of citizens, particularly in oil-producing versus non-oil-producing nations.
 - To focused on examining the relationship between minimum wage, fuel prices, and the number of working hours needed to afford a liter of petrol.
 
 
+---
 
-## 2. Prepare
+## PREPARE
 ### Data Collection:
 
 The data for this project was obtained from Global Petrol Prices for the cost of petrol and Trading Economics for minimum wage data of all countries used in this project. The Excel file contains 16 rows and 12 columns, which include the following:
@@ -35,15 +51,15 @@ The data for this project was obtained from Global Petrol Prices for the cost of
 - Liters by Hourly Wage: This calculates how many liters of petrol can be purchased with one hour of work based on the average hourly wage, offering a direct comparison of fuel affordability across different countries in relation to income.
 
 
-
-## 3. Process
+---
+## PROCESS
 ### Data Transformation:
 
 I used Microsoft Excel and Tableau to work with the data. In Excel, I used formulas to calculate the average monthly working hours, average hourly wage, cost of petrol per liter, and petrol liters per hour. I transformed the data by converting hourly wages into a format that allowed for easy comparison between countries in terms of work hours required to buy a liter of fuel. Additionally, I ensured that each dataset was transformed into the appropriate data type for analysis before importing it into Tableau for visualization.
 
 
-
-## 4. Analyze
+---
+## ANALYZE
 ### Data Exploration: 
 Using statistical analysis and visualization tools, I explored how fuel affordability, minimum wage, and working hours vary between oil-producing and non-oil-producing countries.
 
@@ -69,8 +85,8 @@ A closer look at fuel affordability in terms of the hours of work required to bu
 In countries like the UK, US, and Canada, the combination of higher minimum wages and better economic structures ensures that citizens face less strain from fuel costs. In contrast, Nigeria’s high fuel prices coupled with low wages place a significant burden on its citizens, reducing economic resilience and purchasing power.
 
 
-
-## 5. Share
+---
+## SHARE
 ### Dashboard Creation: 
 I created a Tableau dashboard to display comparative charts on fuel prices, work hours required, and minimum wages across different nations. The dashboard emphasized Nigeria’s high fuel costs despite being an oil-producing country.
 Data Storytelling: I also included concise insights, interactive KPIs, and explanatory notes to help stakeholders understand the economic impact of fuel affordability in various regions.
@@ -78,8 +94,8 @@ Data Storytelling: I also included concise insights, interactive KPIs, and expla
 ![image alt text](https://github.com/judoski366/Nigeria-s-Fuel-Affordability-Compared-to-Other-Countries-An-Insightful-Analysis./blob/main/Dashboard%201%20(15).png)
 
 
-
-## 6. Act
+---
+## ACT
 ### Recommendations: 
 - Based on the analysis, I recommended policy actions such as reviewing Nigeria’s fuel subsidy program and exploring ways to better align fuel prices with wages to reduce the burden on citizens.
 - Business Impact: The insights could influence decisions related to energy policy, economic planning, and future fuel subsidy reforms in oil-producing countries.
