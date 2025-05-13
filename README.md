@@ -4,7 +4,7 @@
 
 ---
 ## Table Of Content
- - [Introduction](#Introduction)
+ - [Introduction](#INTRODUCTION)
  - [ASK](#ASK)
  - [PREPARE](#PREPARE)
  - [PROCESS](#PROCESS)
@@ -103,5 +103,5 @@ Data Storytelling: I also included concise insights, interactive KPIs, and expla
 ### Conclusion
 The analysis shows a significant difference in fuel affordability between oil-producing and non-oil-producing countries. Countries like Libya, Iran, UAE, and Algeria benefit from government subsidies, making fuel more affordable for their citizens. On the other hand Nigeria, despite being a major oil producer, faces challenges with high fuel costs and low wages. Non-OPEC nations such as the UK, US, and Canada have better affordability due to higher minimum wages, even with higher fuel prices. This emphasizes the urgent need for policy reforms in Nigeria, such as wage adjustments or fuel subsidies, to reduce the financial burden on its citizens and enhance overall economic resilience.
 
-Thank you for taking the time to read my analysis! I truly appreciate your interest and support. If you’d like to stay connected and explore more insights or collaborate, feel free to connect with me on my - [LinkedIn](https://www.linkedin.com/in/nwagu-jude/), [Twitter/X](https://x.com/@jcndata). Your engagement means a lot, and I look forward to sharing more valuable content with you
+**Thank you** for taking the time to read my analysis! I truly appreciate your interest and support. If you’d like to stay connected and explore more insights or collaborate, feel free to connect with me on my - [LinkedIn](https://www.linkedin.com/in/nwagu-jude/), [Twitter/X](https://x.com/@jcndata). Your engagement means a lot, and I look forward to sharing more valuable content with you
 
