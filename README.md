@@ -1,6 +1,6 @@
 # Nigeria-s-Fuel-Affordability-Compared-to-Other-Countries-An-Insightful-Analysis.
 
-![Alt Text](https://github.com/judoski366/Nigeria-s-Fuel-Affordability-Compared-to-Other-Countries-An-Insightful-Analysis./blob/main/oil%20price.jpg)
+![Alt Text](https://github.com/JudeNwagu/Nigeria-s-Fuel-Affordability-Compared-to-Other-Countries-An-Insightful-Analysis./blob/main/Fuel%20Pump.jpg)
 
 ---
 ## Table Of Content
